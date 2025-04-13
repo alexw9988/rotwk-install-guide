@@ -1,4 +1,4 @@
-# How to install Rise of The Witch King on Apple Silicon
+# How to install Battle for Middle Earth II / Rise of The Witch King in 2025
 
 ## Prerequisites
 - Apple Silcon Mac (M1/2/3 chip). _Note: This was tested on a MacBook Pro 2021 M1 Max, Sonoma 14.5_
