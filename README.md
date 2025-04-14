@@ -129,3 +129,4 @@ Done!
 - https://forums.revora.net/topic/105190-bfme1bfme2rotwk-games-download-installation-guide/?p=1028484
 - https://oldgamesdownload.com/the-battle-for-middle-earth-ii-the-rise-of-the-witch-king/
 - https://www.gamereplays.org/community/index.php?s=&showtopic=1056718&view=findpost&p=10588561
+- https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html
